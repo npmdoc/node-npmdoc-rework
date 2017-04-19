@@ -1,9 +1,14 @@
-# api documentation for  [rework (v1.0.1)](https://github.com/reworkcss/rework)  [![npm package](https://img.shields.io/npm/v/npmdoc-rework.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rework) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rework.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rework)
+# npmdoc-rework
+
+#### api documentation for  [rework (v1.0.1)](https://github.com/reworkcss/rework)  [![npm package](https://img.shields.io/npm/v/npmdoc-rework.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rework) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rework.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rework)
+
 #### Plugin framework for CSS preprocessing
 
-[![NPM](https://nodei.co/npm/rework.png?downloads=true)](https://www.npmjs.com/package/rework)
+[![NPM](https://nodei.co/npm/rework.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rework)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-rework/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-rework_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rework/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-rework/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-rework/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-rework/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rework/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-rework/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "TJ Holowaychuk",
-        "email": "tj@vision-media.ca"
+        "name": "TJ Holowaychuk"
     },
     "bugs": {
         "url": "https://github.com/reworkcss/rework/issues"
@@ -51,53 +55,41 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "tjholowaychuk",
-            "email": "tj@vision-media.ca"
+            "name": "tjholowaychuk"
         },
         {
-            "name": "jonathanong",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jonathanong"
         },
         {
-            "name": "jongleberry",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jongleberry"
         },
         {
-            "name": "conradz",
-            "email": "me@conradz.com"
+            "name": "conradz"
         },
         {
-            "name": "necolas",
-            "email": "nicolasgallagher@gmail.com"
+            "name": "necolas"
         },
         {
-            "name": "anthonyshort",
-            "email": "antshort@gmail.com"
+            "name": "anthonyshort"
         },
         {
-            "name": "ianstormtaylor",
-            "email": "ian@ianstormtaylor.com"
+            "name": "ianstormtaylor"
         },
         {
-            "name": "moox",
-            "email": "m@moox.io"
+            "name": "moox"
         },
         {
-            "name": "clintwood",
-            "email": "clint@anotherway.co.za"
+            "name": "clintwood"
         },
         {
-            "name": "lydell",
-            "email": "simon.lydell@gmail.com"
+            "name": "lydell"
         },
         {
-            "name": "slexaxton",
-            "email": "alexsexton@gmail.com"
+            "name": "slexaxton"
         }
     ],
     "name": "rework",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/reworkcss/rework.git"
@@ -108,16 +100,6 @@
     "version": "1.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module rework](#apidoc.module.rework)
-
-
-
-# <a name="apidoc.module.rework"></a>[module rework](#apidoc.module.rework)
 
 
 
