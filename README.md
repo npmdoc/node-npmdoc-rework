@@ -1,6 +1,6 @@
 # npmdoc-rework
 
-#### api documentation for  [rework (v1.0.1)](https://github.com/reworkcss/rework)  [![npm package](https://img.shields.io/npm/v/npmdoc-rework.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rework) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rework.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rework)
+#### basic api documentation for  [rework (v1.0.1)](https://github.com/reworkcss/rework)  [![npm package](https://img.shields.io/npm/v/npmdoc-rework.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rework) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rework.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rework)
 
 #### Plugin framework for CSS preprocessing
 
@@ -97,7 +97,8 @@
     "scripts": {
         "test": "mocha --require should --reporter spec"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
